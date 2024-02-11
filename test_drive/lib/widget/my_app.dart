@@ -3,7 +3,7 @@ import 'package:provider/provider.dart';
 import 'my_home_page.dart';
 import '../core/my_app_state.dart';
 
-class MyApp extends StatelessWidget{
+class MyApp extends StatelessWidget {
   //const MyApp({super.key});
   @override
   Widget build(BuildContext context) {
